@@ -1,6 +1,5 @@
 # Information-Retrieval
-Information Retrieval Projects
-# Project Subject & Objectives 
+BSBI Project
 
 **Subject**
 
@@ -8,14 +7,14 @@ Information Retrieval Projects
 
 **Objective**:
 
-> The objective of this homework is to implement an indexer for an information retrieval system in Python. You will be required to implement four classes, including `Index`, `Documents`, `Lexicon`, and `CollectionStatistics`. The implementation of `Index` class will use the **Block Sort-Based Indexing** algorithm to create an inverted index for a given collection with collection path. The resulting index will then be stored in an index file path given as input. The implementation will also include methods for loading and storing all of the classes, `Documents`, `Lexicon`, and `CollectionStatistics`.
+> The objective of this is to implement an indexer for an information retrieval system in Python. You will be required to implement four classes, including `Index`, `Documents`, `Lexicon`, and `CollectionStatistics`. The implementation of `Index` class will use the **Block Sort-Based Indexing** algorithm to create an inverted index for a given collection with collection path. The resulting index will then be stored in an index file path given as input. The implementation will also include methods for loading and storing all of the classes, `Documents`, `Lexicon`, and `CollectionStatistics`.
 
-> I used **Dataset** for this project is **Milliyet100K** in Turkish language and the neccessary code cells that load the dataset is given below under the topic "DATASET".
+> I used **Dataset** for this project is **Milliyet100K**, a Turkish dataset, and the neccessary code cells that load the dataset is given below under the topic "DATASET".
 
 DATASET
 MilliyetCollection100K.zip
 
-This is the collection we used for the test of your implementation.
+This is the collection we used for the test of implementation.
 
 It contains 100K documents, and apprx. it has apprx. 25 million tokens, i.e. 95.5/4.
 
